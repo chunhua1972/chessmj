@@ -1,0 +1,2 @@
+-- This version is already applied in the linked Supabase project.
+-- Its original source is not recreated here because this project owns only chessmj_* objects.
